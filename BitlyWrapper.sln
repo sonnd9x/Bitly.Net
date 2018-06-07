@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitlyWrapper", "BitlyWrapper\BitlyWrapper.csproj", "{1A5F0D64-DE8C-4AB1-835E-258A8648B7AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitly.Net", "Bitly.Net\Bitly.Net.csproj", "{F870E8C0-432C-4600-ACDA-A61323FAAB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5F0D64-DE8C-4AB1-835E-258A8648B7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5F0D64-DE8C-4AB1-835E-258A8648B7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5F0D64-DE8C-4AB1-835E-258A8648B7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5F0D64-DE8C-4AB1-835E-258A8648B7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F870E8C0-432C-4600-ACDA-A61323FAAB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F870E8C0-432C-4600-ACDA-A61323FAAB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F870E8C0-432C-4600-ACDA-A61323FAAB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F870E8C0-432C-4600-ACDA-A61323FAAB49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF51BB5F-3815-4F96-86F9-8867702056E8}
+	EndGlobalSection
+EndGlobal
